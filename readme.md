@@ -1,5 +1,21 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=30F714&background=703BE2BE&center=true&vCenter=true&width=435&lines=Dia+1+clase;IDAT+frontEnd;Presentacion+-+clase)](https://git.io/typing-svg)
 
+## Historial Navegable
+
+- [QUE ES Frontend](#que-es-frontend)
+- [QUE ES LA WEB O EL INTERNET](#que-es-la-web-o-el-internet)
+- [QUE ES UNA APLICACION WEB](#que-es-una-aplicacion-web)
+- [QUE HACE EL FRONTEND](#que-hace-el-frontend)
+- [QUE HACE EL BACKEND](#que-hace-el-backend)
+- [QUE ES SSR](#que-es-ssr)
+- [QUE ES UN SPA](#que-es-un-spa)
+- [QUE Una API REST](#que-una-api-rest)
+- [NAVEGADOR Net Skey](#navegador-net-skey)
+- [HERRAMIENTAS DEL frontend](#herramientas-del-frontend)
+- [QUE ES PWA](#que-es-pwa)
+
+## Presentacion
+
 PRESENTACION DE LOS INTEGRANTES DEL CURSO, TANTO PROFESOR COMO EL ALUMNADO
 
 ## QUE ES Frontend
@@ -25,6 +41,8 @@ PRESENTACION DE LOS INTEGRANTES DEL CURSO, TANTO PROFESOR COMO EL ALUMNADO
 1. Bootstrap o Tailwind CSS: Librerías de CSS que ayudan a crear diseños más rápidamente.
 
 1. El frontend trabaja en conjunto con el backend (la parte oculta que gestiona la lógica y los datos) para crear aplicaciones completas.
+
+[☝️](#historial-navegable)
 
 ## QUE ES LA WEB O EL INTERNET
 
@@ -53,6 +71,8 @@ PRESENTACION DE LOS INTEGRANTES DEL CURSO, TANTO PROFESOR COMO EL ALUMNADO
 1. URLs (Uniform Resource Locators): Son las direcciones web que usamos para acceder a los sitios (por ejemplo, <https://www.ejemplo.com>).
 
 Cuando usamos un navegador y escribimos una URL o realizamos una búsqueda, estamos accediendo a la web, que es solo una de las muchas cosas que se pueden hacer a través de Internet.
+
+[☝️](#historial-navegable)
 
 ## QUE ES UNA APLICACION WEB
 
@@ -92,6 +112,8 @@ Cuando usamos un navegador y escribimos una URL o realizamos una búsqueda, esta
 >
 > Las aplicaciones web son populares porque se pueden actualizar y mantener en un servidor central, y cualquier cambio se aplica inmediatamente a todos los usuarios sin que necesiten descargar nada.
 
+[☝️](#historial-navegable)
+
 ## QUE HACE EL FRONTEND
 
 >[!NOTE]
@@ -127,6 +149,8 @@ Cuando usamos un navegador y escribimos una URL o realizamos una búsqueda, esta
 1. Conexión con el backend: El frontend se conecta a APIs para enviar/recibir datos según las acciones del usuario.
 
 El trabajo del frontend es fundamental porque es lo que determina cómo perciben y experimentan los usuarios una aplicación o sitio web.
+
+[☝️](#historial-navegable)
 
 ## QUE HACE EL BACKEND
 
@@ -170,6 +194,8 @@ El trabajo del frontend es fundamental porque es lo que determina cómo perciben
 
 En resumen, el backend es responsable de toda la lógica, el almacenamiento de datos, y las operaciones que permiten que la aplicación funcione, asegurando que los datos se procesen y gestionen correctamente y que el usuario tenga una experiencia funcional y segura.
 
+[☝️](#historial-navegable)
+
 ## QUE ES SSR
 
 >[!NOTE]
@@ -199,6 +225,8 @@ En *SSR*, cuando un usuario solicita una página, el servidor procesa y genera t
 Frameworks populares como Next.js (basado en React) ofrecen SSR para aplicaciones React. Esto es útil para aplicaciones que requieren carga rápida y buen SEO, como blogs, páginas de productos o cualquier página donde el contenido debe aparecer rápidamente.
 
 En resumen, SSR permite que las páginas web se carguen más rápido y de forma más amigable para los motores de búsqueda, porque el servidor genera el HTML antes de enviarlo al navegador.
+
+[☝️](#historial-navegable)
 
 ## QUE ES UN SPA
 
@@ -241,6 +269,8 @@ Las SPA se desarrollan comúnmente con frameworks de JavaScript como:
 - *Ember.js*: Otro framework enfocado en aplicaciones web con SPA.
 
 En resumen, una **SPA** es una aplicación de una sola página que ofrece una experiencia de usuario rápida y continua al actualizar el contenido dinámicamente sin recargar toda la página, ideal para aplicaciones que requieren mucha interactividad y rapidez, como redes sociales o aplicaciones de gestión.
+
+[☝️](#historial-navegable)
 
 ## QUE Una API REST
 
@@ -295,11 +325,15 @@ Las API REST se usan para aplicaciones web, aplicaciones móviles, y servicios d
 
 En resumen, una API REST permite que el frontend de una aplicación se comunique con el backend de manera estructurada y estándar, simplificando el intercambio de datos y la interoperabilidad entre diferentes sistemas.
 
+[☝️](#historial-navegable)
+
 ## NAVEGADOR Net Skey
 
 El término **Net Skey** o **Skey Network** se refiere a una plataforma de tecnología blockchain orientada a conectar el mundo de los activos digitales y contratos inteligentes con dispositivos y datos del mundo físico, un concepto denominado "Blockchain of Things" o BoT. La red de Skey utiliza oráculos descentralizados para conectar DeFi (finanzas descentralizadas) con datos externos, lo que permite aplicaciones que integran servicios de IoT (Internet de las Cosas) y blockchain. Empresas en Europa, como Orange y Teltonika, han implementado Skey Network para gestionar dispositivos y servicios usando la infraestructura blockchain, destacando por su enfoque en rapidez y simplicidad en la integración, utilizando dispositivos como SkeyBox para facilitar el acceso a su ecosistema
 
 Para más detalles sobre esta tecnología y sus aplicaciones, puedes explorar sus desarrollos en la página oficial de [Skey Network](https://skey.network/).
+
+[☝️](#historial-navegable)
 
 ## HERRAMIENTAS DEL frontend
 
@@ -351,6 +385,8 @@ Las herramientas del frontend son esenciales para crear interfaces de usuario at
 
 Estas herramientas permiten a los desarrolladores frontend construir aplicaciones interactivas, optimizadas y mantenibles de manera eficiente y escalable.
 
+[☝️](#historial-navegable)
+
 ## QUE ES PWA
 
 Una **PWA** o Progressive Web App (Aplicación Web Progresiva) es una aplicación web que utiliza tecnologías modernas para ofrecer una experiencia similar a la de una aplicación nativa en dispositivos móviles y de escritorio. Las PWA combinan las ventajas de las aplicaciones web y las aplicaciones nativas, brindando una experiencia de usuario rápida, confiable y atractiva.
@@ -394,5 +430,7 @@ Una **PWA** o Progressive Web App (Aplicación Web Progresiva) es una aplicació
 - **Uber y Pinterest**: Ambas han lanzado versiones PWA para ofrecer una experiencia ligera y rápida para usuarios de todo el mundo.
 
 En resumen, una *PWA* es una aplicación web avanzada que permite a los usuarios disfrutar de una experiencia parecida a la de una app nativa sin necesidad de instalación, combinando lo mejor del desarrollo web y móvil para mejorar la accesibilidad y la experiencia del usuario.
+
+[☝️](#historial-navegable)
 
 ## Sige aprendiendo Naldo
